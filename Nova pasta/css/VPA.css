@@ -1,0 +1,125 @@
+body{
+    font-family: 'Roboto', Arial, sans-serif;
+}
+.navbar-reprograma{
+    background-color:#f9f9f9;
+}
+#logo{
+    height: 45px;
+    margin-top: 2px;
+    margin-left: 445px; 
+}
+#tel{
+    color: #ffffff;
+    margin-left: 387px;
+    margin-top: 13px;
+    font-size: 12.9px;
+    font-family: 'Roboto', Arial, sans-serif;
+    letter-spacing: 0.8px;
+    font-weight: bold;
+}
+#terreno{
+    float: right;
+    color: #ffffff;
+    font-family: 'Roboto', Arial, sans-serif;
+    letter-spacing: 1.3px;
+    margin-top: 11px;
+    margin-left: 20px;
+    border-style: none;
+    font-size: 12px;
+    font-weight: normal;
+}
+#topo{
+    margin-bottom: 0;
+    width: 100%;
+    margin: 0;
+    background-color: #000000;
+    height: 42px;
+}
+#navbar-menu{
+    float: left;
+    width: 100%;
+    z-index: 9999;
+    position: fixed;
+    height: 81px;
+}
+#navbar-option{
+    font-family: 'Roboto', Arial, sans-serif;
+    font-weight: 200;
+    font-size: 15px;
+    margin-right: 398px;
+    margin-top: 12px;
+    display: inline;
+    padding: 1px;
+}
+#slide{
+    width: 100%;
+    margin-top: 0;
+    height: 578px;
+}
+#slide1{
+    height: 578px;
+    width: 1912px;
+}
+#conheca{
+    font-family: 'Relaway', Arial, sans-serif;
+    font-size: 30px;
+    font-style: initial;
+    text-align: center;
+    padding: 24px;
+    letter-spacing: .3px;
+    font-weight: lighter;
+    font-variant: small-caps;
+}
+#blueGarden{
+    color: #1277bd;
+    font-style: initial;
+}
+#texto{
+    position:absolute;
+    width: 100%;
+    margin-top: 0;
+    height: 342px;
+    background-color:#edebe1;
+}
+p{  
+    margin-top: -10px; 
+    font-size: 16px;
+    text-align: center;
+    font-family: 'Relaway', Arial, sans-serif;
+}
+#slide1{
+    width: 2500x;
+    margin-left: -25px;
+}
+#logobg{
+    margin-left: 897px;
+    margin-top: 9px;
+}
+#div-estados{
+    margin-top: 342px;
+    width: 100%;
+    height: 500px;
+    background-color: #000000;
+}
+#outros{
+    width: 100%;
+    height: 360px;
+    background-color: green;
+}
+#estados{
+    width: 1904px;
+    margin-left: -15px; 
+    height: 500px;
+}
+#outros-img{
+    width: 1904px;
+    margin-left: -15px;
+}
+#video-png{
+    margin-left: -15px;
+}
+#footer{
+    width: 1910px;
+    margin-left: -15px;
+}
